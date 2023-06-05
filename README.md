@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![](https://github.com/ozcaneren/next-tailwind-daisyui-todo/blob/master/public/2023-06-05%2008-19-45(1).gif)
+
+
 ## Getting Started
 
 First, run the development server:
